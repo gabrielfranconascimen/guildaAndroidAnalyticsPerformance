@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950003492535",
+    "firebase_url": "https://guildaandroid-c4eac.firebaseio.com",
+    "project_id": "guildaandroid-c4eac",
+    "storage_bucket": "guildaandroid-c4eac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950003492535:android:06645b9e2db471322b0f32",
+        "android_client_info": {
+          "package_name": "com.example.firebaseguilda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950003492535-kpbsjf6p9ol1er0ri6o4epov53s7jdgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseguilda",
+            "certificate_hash": "31edc45b95272256a50dc6623e4ce69005d747a4"
+          }
+        },
+        {
+          "client_id": "950003492535-at72c7n22o2k5g293acohnktn57ce34n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6XY4spLN1KYAVnG1fBtEEz5llFLwhNrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950003492535-at72c7n22o2k5g293acohnktn57ce34n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

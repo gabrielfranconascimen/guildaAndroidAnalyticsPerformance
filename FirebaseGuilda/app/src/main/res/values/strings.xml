@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseGuilda</string>
+    <string name="nickname">Apelido</string>
+    <string name="save_button">Salvar nome</string>
+    <string name="android_button">Enviar Android</string>
+    <string name="ios_button">Enviar iOS</string>
+    <string name="exit">Sair</string>
+</resources>
